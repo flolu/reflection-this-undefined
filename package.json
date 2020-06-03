@@ -1,0 +1,16 @@
+{
+  "name": "reflection-this-undefined",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^3.9.3"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2"
+  }
+}
